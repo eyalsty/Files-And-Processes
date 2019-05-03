@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ex3B.dir/ex32.c.o  -o ex3B 
